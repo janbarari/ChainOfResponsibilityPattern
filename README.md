@@ -1,4 +1,4 @@
-# Chain of responsibility: A chain of objects
+# Chain of responsibility: A chain of handlers
 [![](https://img.shields.io/badge/GOF-blue.svg?style=flat)](https://github.com/janbarari/chainofresponsibilitypattern)
 [![](https://img.shields.io/badge/Behavioral-green.svg?style=flat)](https://github.com/janbarari/chainofresponsibilitypattern)
 
