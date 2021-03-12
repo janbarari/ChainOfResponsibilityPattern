@@ -40,9 +40,9 @@ Let's build a job request chain, You sent a job request to a company, Your reque
  
  Applicability
  ------
- 1- More than one object may handle a request, and the handler isn't known a priori. The handler should be as certained automatically.  
- 2- You want to issue a request to one of several objects without specifying the receiver explicitly.  
- 3- The set of objects that can handle a request should be specified dynamically.
+ - More than one object may handle a request, and the handler isn't known a priori. The handler should be as certained automatically.  
+ - You want to issue a request to one of several objects without specifying the receiver explicitly.  
+ - The set of objects that can handle a request should be specified dynamically.
  
  Alternative Design Patterns
  ------
