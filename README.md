@@ -12,7 +12,7 @@ How it works
 ------
 Chain of responsibility means handling a request by a chain of handlers. The handlers in the chain can act two types of action
 1- Could assign the request to the next handler in the chain when it didn't execute by the handler.
-2- Can drop the request and avoid assign it to the next handler in the chain when it's not accepted by the handler.
+2- Can drop the request and avoid the assign it to the next handler in the chain when it's not accepted by the handler.
 
 To make it simple understandable for you I will explain two different scenarios:
 
