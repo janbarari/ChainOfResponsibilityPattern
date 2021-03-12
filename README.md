@@ -53,9 +53,10 @@ Let's build a job request chain, You sent a job request to a company, Your reque
  
  Source
  ------
-  - ![https://youtu.be/jDX6x8qmjbA](https://youtu.be/jDX6x8qmjbA)
-  - ![java-design-patterns.com](https://java-design-patterns.com/patterns/chain/)
-  - ![refactoring.guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
+  - [Kudvenkat youtube tutorial](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
+  - [Derek Banas youtube tutorial](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLF206E906175C7E07)
+  - [Java-design-patterns.com](https://java-design-patterns.com/patterns/chain/)
+  - [Refactoring.guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
   
   Sponsor
   -------
