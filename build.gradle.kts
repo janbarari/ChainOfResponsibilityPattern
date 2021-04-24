@@ -3,6 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     kotlin("jvm") version "1.4.21"
     application
+    id("com.github.janbarari.gradlebuildtimetracker") version "1.0.0"
 }
 
 group = "io.github.janbarari"
